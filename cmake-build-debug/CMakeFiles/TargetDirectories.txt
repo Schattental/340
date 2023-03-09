@@ -1,0 +1,4 @@
+C:/Users/Beni/CLionProjects/Navigate/cmake-build-debug/CMakeFiles/Navigate.dir
+C:/Users/Beni/CLionProjects/Navigate/cmake-build-debug/CMakeFiles/Navigate_login.dir
+C:/Users/Beni/CLionProjects/Navigate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Beni/CLionProjects/Navigate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
